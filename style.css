@@ -80,6 +80,6 @@ body{
 }
 @media (max-width:481px){
     .container{
-        transform: translate(-50%,-100%);
+        max-width: 340px;
     }
 }
